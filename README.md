@@ -5,15 +5,15 @@ de back-end.
 
 # Funcionalidades
 
-[x] Criar nova tarefa.
-[x] Deletar uma tarefa.
-[x] Completar uma tarefa.
-[x] Criar um usuário.
-[x] Só é possivel Deletar, Criar, Completar uma tarefa se você estiver autenticado.
+[x] Criar nova tarefa. <br>
+[x] Deletar uma tarefa. <br>
+[x] Completar uma tarefa. <br>
+[x] Criar um usuário. <br>
+[x] Só é possivel Deletar, Criar, Completar uma tarefa se você estiver autenticado. <br>
 
 ## Tecnologias
 
 - Typescript
 - Express
-- Prisma
+- Prisma.io
 - JsonWebToken
